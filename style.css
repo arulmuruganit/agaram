@@ -1,0 +1,150 @@
+.nav{
+    background-color:white;
+    height: 100px;
+    padding-left: 2%;
+    display:flex;
+    position: relative;
+}
+body{
+    background-color:none;
+    padding:0%;
+    margin: 0%;
+}
+.navbar__items {
+    margin: 0px 1px;
+    padding: 0px 80px;
+    background-color: white;
+    align-content: flex-end;
+    text-align: right;
+}
+.nav__link {
+    
+    color: rgb(202, 27, 27);
+    font-size: 15px;
+    text-decoration:rgb(247, 246, 245);
+    align-items:baseline;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+  }
+  .navbar {
+    background-color: lightblue;
+    display: flex;
+    height: 4%;
+  }
+  .nav__item {
+    margin: 0px 10px;
+    padding-top: 45px;
+    color:rgb(250, 248, 248);
+  }
+  .button{
+      background:rgb(236, 79, 5);
+      border-radius: 92px;
+      size: 50%;
+  }
+  .para{
+      text-align:justify;
+      margin-left: 40px;
+      font-size: 16px;
+      font-weight:lighter;
+      text-align: justify;
+      line-height: 35px;
+      word-spacing: 5px;
+  }
+  .footer{
+      color:lemonchiffon;
+      margin: 2px 2px 2px 2px;
+      background-color:black;
+      border-style:double;
+      position:absolute;
+      width: 100%;
+  }
+  .contact{
+      text-align:center;
+  }
+  p{
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .po{
+    font-size: 15px;
+    margin: 23px;  
+    text-align: right;
+    text-decoration: rgb(226, 52, 8);
+    color: rgb(239, 243, 239);
+  }
+.vision{
+    background-color: black;
+    margin: 10px;
+    text-align: center;
+    color:linen;
+    padding: 5px;
+}
+.vision1{
+  background-color: black;
+  margin: 10px;
+  text-align: center;
+  color:linen;
+  padding: 5px;
+  height:100px;
+}
+.fou{
+    font-size: 30pt;
+    color: brown;
+}
+.fou1{
+    font-size: 18px;
+}
+.home{
+  text-align: right;
+  padding-right: 100px;
+}
+.the{
+  font-style: italic;
+  font-size: 20px;
+}
+.dropdown {
+    position: relative;
+    display:inline-block;   
+  }
+  .history{
+    text-align: left;
+    margin-left: 20px;
+  }
+  .dropdown-content {
+    display:none;
+    border: 1cm;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: #dd0b1d;
+    z-index: 1;
+    background-color: blue;
+    text-decoration: #18db06;
+  }
+  .dropdown:hover .dropbtn {
+    background-color: #18db06;
+  }
+  .dropbtn {
+    color:blue;
+    background-color:blue;
+    color:rgb(17, 14, 14) ;
+    font-size: 20px;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+    background-color: aqua;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 1px 10px;
+    background-color:pink;
+    text-decoration: red;
+    display: block;
+    border:black solid 2px;
+  }
+  .b1{
+    border-radius: 100px;
+    background-color: orangered;
+    padding: 5px 20px;
+    font-size: 20px;
+  }
+  
